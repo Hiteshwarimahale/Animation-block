@@ -43,7 +43,6 @@ const Mani = () => {
 
         </div>
 
-<h1>   mani mahale  </h1>
 
 
       </div>
