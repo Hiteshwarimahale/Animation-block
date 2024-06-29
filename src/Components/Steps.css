@@ -1,0 +1,26 @@
+.container-steps {
+  display: flex;
+  gap: 50px;
+  justify-content: center;
+}
+
+html{
+    scroll-behavior: smooth;
+}
+
+.container-steps a {
+  width: 215px;
+  height: 55px;
+  text-align: center;
+  font-weight: 400;
+  font-size: 40px;
+  background-color: hwb(0 90% 5%);
+  border: 2px solid #000; /* Add a border */
+  border-radius: 5px; /* Optional: Add border radius for rounded corners */
+  text-decoration: none; /* Remove underline from links */
+  color: #000; /* Text color */
+}
+
+.container-steps a:hover {
+  background-color: #a0a09c; /* Optional: Add a hover effect */
+}

@@ -1,0 +1,15 @@
+.Container-step1{
+    width: 520px;
+    height: 511px;
+    margin-top: 200px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color:antiquewhite;
+    border: 5px solid black;
+}
+
+.one{
+    margin-top: 760px; 
+   margin-left: 50px;
+}
