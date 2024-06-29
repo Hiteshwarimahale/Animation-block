@@ -1,6 +1,7 @@
 import React from "react";
 import "./mani.css";
 
+
 const Mani = () => {
   return (
     <div>
@@ -42,7 +43,7 @@ const Mani = () => {
 
         </div>
 
-
+<h1>   mani mahale  </h1>
 
 
       </div>
